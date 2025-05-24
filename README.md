@@ -1,5 +1,6 @@
 # SCT_DS_1
 🎯 Age Distribution Visualization of Breast Cancer Patients
+
 This project was developed during my internship at SkillCraft Technology, focusing on data visualization within the healthcare domain. Utilizing Python's Seaborn and Matplotlib libraries, I analyzed and visualized the age distribution of breast cancer patients to uncover demographic patterns and inform healthcare strategies.
 
 
